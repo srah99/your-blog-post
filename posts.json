@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "content": "<h1>Hello World!</h1><p>This is my first blog post.</p>"
+    },
+    {
+      "title": "Post 2",
+      "content": "<h1>Hello Again!</h1><p>This is my second blog post.</p>"
+    }
+  ]
+}
